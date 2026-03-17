@@ -1,0 +1,3 @@
+interface IReport {
+    String generate();
+}
